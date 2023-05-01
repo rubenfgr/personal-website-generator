@@ -1,10 +1,10 @@
 {
-  "name": "portfolio-generator-front",
-  "description": "Portfolio generator is an open source project. The main objective is to have a personal website where you can share your training, experience, projects, etc. and include a documentation section. In principle it is designed for software developers but it is adaptable to other profiles. The website will be managed from an administrative panel",
+  "name": "personal-website-builder-front",
+  "description": "Personal Website Builder is an open source project. The main objective is to have a personal website where you can share your training, experience, projects, etc. and include a documentation section. In principle it is designed for software developers but it is adaptable to other profiles. The website will be managed from an administrative panel",
   "version": "0.0.1",
   "author": {
     "name": "Rubén F.G.R",
-    "email": "rubenfranciscogr@gmail.com",
+    "email": "rubenfranciscogr@outlook.com",
     "url": "https://github.com/rubenfgr"
   },
   "license": "MIT",
