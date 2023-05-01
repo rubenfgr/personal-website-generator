@@ -31,5 +31,5 @@ Personal Website Builder is an open source project. The main objective is to hav
 
 ## License
 
-This project is [MIT licensed](./LICENSE.md)
+This project is [MIT licensed](./LICENSE)
 
