@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppComponent should valid snapshot: AppComponent 1`] = `
+<div
+  id="root2"
+>
+  <h1>
+    Portfolio Generator v0.0.1
+  </h1>
+</div>
+`;
